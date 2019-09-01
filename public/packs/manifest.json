@@ -1,0 +1,54 @@
+{
+  "app.js": "/packs/js/app-92d116e5547923b2dbb5.js",
+  "app.js.map": "/packs/js/app-92d116e5547923b2dbb5.js.map",
+  "application.js": "/packs/js/application-b42f1344f9470a9ff6b4.js",
+  "application.js.map": "/packs/js/application-b42f1344f9470a9ff6b4.js.map",
+  "components/UserList.js": "/packs/js/components/UserList-4731f14c4418f4995157.js",
+  "components/UserList.js.map": "/packs/js/components/UserList-4731f14c4418f4995157.js.map",
+  "entrypoints": {
+    "app": {
+      "js": [
+        "/packs/js/app-92d116e5547923b2dbb5.js"
+      ],
+      "js.map": [
+        "/packs/js/app-92d116e5547923b2dbb5.js.map"
+      ]
+    },
+    "application": {
+      "js": [
+        "/packs/js/application-b42f1344f9470a9ff6b4.js"
+      ],
+      "js.map": [
+        "/packs/js/application-b42f1344f9470a9ff6b4.js.map"
+      ]
+    },
+    "components/UserList": {
+      "js": [
+        "/packs/js/components/UserList-4731f14c4418f4995157.js"
+      ],
+      "js.map": [
+        "/packs/js/components/UserList-4731f14c4418f4995157.js.map"
+      ]
+    },
+    "hello_typescript": {
+      "js": [
+        "/packs/js/hello_typescript-34b31f6486d34939234f.js"
+      ],
+      "js.map": [
+        "/packs/js/hello_typescript-34b31f6486d34939234f.js.map"
+      ]
+    },
+    "router/router": {
+      "js": [
+        "/packs/js/router/router-a9d828eca7752c297e32.js"
+      ],
+      "js.map": [
+        "/packs/js/router/router-a9d828eca7752c297e32.js.map"
+      ]
+    }
+  },
+  "hello_typescript.js": "/packs/js/hello_typescript-34b31f6486d34939234f.js",
+  "hello_typescript.js.map": "/packs/js/hello_typescript-34b31f6486d34939234f.js.map",
+  "router/router.js": "/packs/js/router/router-a9d828eca7752c297e32.js",
+  "router/router.js.map": "/packs/js/router/router-a9d828eca7752c297e32.js.map"
+}
